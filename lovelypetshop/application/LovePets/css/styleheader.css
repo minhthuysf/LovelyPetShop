@@ -1,0 +1,33 @@
+.navbar{ 
+    
+}
+.active{
+    border-bottom: 2px solid rgb(248,248,248);
+}
+.navbar li a{
+    color: black !important;
+    font-family: serif;
+    font-size: 20px !important;
+   
+
+
+}
+.navbar li a:hover{
+    background-color: #65e5fa !important;
+    color: black !important;
+}
+
+.form-control{
+    font-family: serif;
+    float: right ;
+}
+
+.dropdown:hover .dropdown-menu{
+    display: block;
+    
+    
+}
+
+
+
+
